@@ -7,3 +7,9 @@ A simple offline music player built with Python (PyQt6 & pygame).
 - Add and search songs  
 - Shuffle and volume control  
 - Album art display 
+
+
+## Installation  
+```sh
+pip install -r requirements.txt
+python main.py
